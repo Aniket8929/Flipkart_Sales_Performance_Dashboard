@@ -17,7 +17,7 @@ To address this need, I developed an interactive Sales Analytics Dashboard using
 ![Business Overview](https://github.com/user-attachments/assets/bfbc32ce-7265-45aa-8888-067bc1121f13)
 
 ### 3. Sales Analysis
-![Sales Analysis](https://github.com/user-attachments/assets/7b7b4ad6-21fb-4668-b6a1-cea3d352e2fc)
+![Sales Analysis](<img width="766" height="434" alt="image" src="https://github.com/user-attachments/assets/7b7b4ad6-21fb-4667-8059-b9e6526ffb8a" />)
 
 ### 4. Order Analysis
 ![Order Analysis](https://github.com/user-attachments/assets/deba1600-2af1-40b3-b4e2-e166f5f227e9)
